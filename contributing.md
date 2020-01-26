@@ -1,8 +1,3 @@
-## Mission
-
-To be a long-term reference for instances of political acts perceived as
-being executed against public interest.
-
 ## Contributions and Trust Relationships
 
 Contributors and contributions adhering to the [Acceptable, preferred
