@@ -13,6 +13,10 @@ reports:
      title: Award of Funding under the Community Sport Infrastructure Program
      link: https://www.anao.gov.au/work/performance-audit/award-funding-under-the-community-sport-infrastructure-program
 headlines:
+   - date: 2020-01-28
+     author: ABC
+     title: Sport Australia complained about political interference in the Government's sports grants program
+     link: https://www.abc.net.au/news/2020-01-28/sport-australia-complained-pre-election-government-grants/11905250
    - date: 2020-01-22
      author: The Guardian Australia
      title: "'Sports rorts' grants explained: how we got here and why it all matters"
