@@ -7,6 +7,8 @@ authors:
      link: https://abc.net.au
    - name: The Guardian Australia
      link: https://www.theguardian.com/australia-news
+   - name: The New Daily
+     link: https://thenewdaily.com.au/
 reports:
    - date: 2020-01-15
      author: ANAO
@@ -17,6 +19,10 @@ headlines:
      author: ABC
      title: Sport Australia complained about political interference in the Government's sports grants program
      link: https://www.abc.net.au/news/2020-01-28/sport-australia-complained-pre-election-government-grants/11905250
+   - date: 2020-01-22
+     author: The New Daily
+     title: Bridget McKenzie approved $36,000 grant to shooting club without disclosing membership
+     link: https://thenewdaily.com.au/news/national/2020/01/22/bridget-mckenzie-shooting-club-sport-grant/
    - date: 2020-01-22
      author: The Guardian Australia
      title: "'Sports rorts' grants explained: how we got here and why it all matters"
