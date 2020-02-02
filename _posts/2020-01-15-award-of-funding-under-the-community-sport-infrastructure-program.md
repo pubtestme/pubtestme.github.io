@@ -15,6 +15,10 @@ reports:
      title: Award of Funding under the Community Sport Infrastructure Program
      link: https://www.anao.gov.au/work/performance-audit/award-funding-under-the-community-sport-infrastructure-program
 headlines:
+   - date: 2020-02-02
+     author: ABC
+     title: Bridget McKenzie quits frontbench over report she breached ministerial standards
+     link: https://www.abc.net.au/news/2020-02-02/bridget-mckenzie-quits-over-ministerial-standards-breach/11896610
    - date: 2020-01-28
      author: ABC
      title: Sport Australia complained about political interference in the Government's sports grants program
