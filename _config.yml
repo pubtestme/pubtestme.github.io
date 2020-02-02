@@ -31,6 +31,8 @@ plugins:
   - jekyll-relative-links
 strict_front_matter: true
 
+permalink: /v1/:categories/:year/:month/:day/:title:output_ext
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
