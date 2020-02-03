@@ -16,8 +16,8 @@
 title: pubtest.me
 # email: contribute@pubtest.me
 description: >- # this means to ignore newlines until "baseurl:"
-  pubtest.me is an index of reported political acts executed against public
-  interest, with a focus on the Australian Federal government.
+  pubtest.me is an index of reporting on Australian Federal Government
+  activities that are at odds with the public interest
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pubtest.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pubtestme
