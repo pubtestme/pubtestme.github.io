@@ -30,8 +30,8 @@ headlines:
 summary: |
   [A story published in the Daily Telegraph][root] claims the "City of Sydney
   Council’s outlay on flights outstrips that of Australia’s foreign ministers",
-  but backs this claim with numbers that do not correlate with [the
-  report][report] on which they claim to be based. [The Guardian Australia
+  but backs the statement with numbers that do not correlate with [the
+  report][report] on which they are allegedly based. [The Guardian Australia
   writes][guardian-quote] "In subsequent emails between the Telegraph and
   Moore’s office, the paper justified the figures using a document supplied by
   [Angus] Taylor’s office, purporting to be the council’s annual report."
