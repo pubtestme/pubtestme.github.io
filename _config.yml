@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: pubtest.me
-# email: contribute@pubtest.me
+email: contact@pubtest.me
 description: >- # this means to ignore newlines until "baseurl:"
   pubtest.me is an index of reporting on Australian Federal Government
   activities that are at odds with the public interest
