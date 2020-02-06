@@ -19,6 +19,10 @@ headlines:
      author: ABC
      title: Bridget McKenzie quits frontbench over report she breached ministerial standards
      link: https://www.abc.net.au/news/2020-02-02/bridget-mckenzie-quits-over-ministerial-standards-breach/11896610
+   - date: 2020-02-01
+     author: ABC
+     title: Government's sport grants leaked spreadsheet reveals more secrets about the scheme
+     link: https://www.abc.net.au/news/2020-02-01/sport-rorts-grants-six-secrets-revealed/11910410
    - date: 2020-01-28
      author: ABC
      title: Sport Australia complained about political interference in the Government's sports grants program
