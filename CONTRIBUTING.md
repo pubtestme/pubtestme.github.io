@@ -95,7 +95,7 @@ Referenced content is subject to its authors' license and redistribution
 policies.
 
 All content is licensed under Creative Commons [Attribution-ShareAlike 4.0
-International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+International (CC BY-SA 4.0)](/LICENSE.CC-BY-SA-4.0.txt).
 
 #### Code License
 
@@ -103,9 +103,8 @@ International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 may take the form of basic web technologies like HTML, CSS and Javascript, or
 template control instructions.
 
-All contributed code must be licensed under an [OSI approved
-license](https://opensource.org/licenses). Site administrators may select a
-specific license or narrow the set of acceptable licenses in the future.
+All contributed code must be licensed under the [MIT
+license](/LICENSE.MIT.txt).
 
 Code source files must contain a SPDX marker indicating the specified license
 as well as copyright information for significant contributions.
