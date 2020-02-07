@@ -1,6 +1,7 @@
 ---
 title: $443 Million Great Barrier Reef Grant
 layout: post
+tags: [ "Adverse Finding" ]
 authors:
    - name: ANAO
      link: https://www.anao.gov.au/
