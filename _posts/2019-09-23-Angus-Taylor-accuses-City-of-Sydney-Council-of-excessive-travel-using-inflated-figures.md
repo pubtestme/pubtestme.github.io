@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [ Under Scrutiny ]
 authors:
    - name: City of Sydney
      link: https://www.cityofsydney.nsw.gov.au/
