@@ -16,6 +16,14 @@ reports:
      title: City of Sydney Annual Report Statutory Returns 2017/18
      link: https://www.cityofsydney.nsw.gov.au/__data/assets/pdf_file/0004/309118/City-of-Sydney-Annual-Report-Statutory-Returns-2017-18.pdf
 headlines:
+   - date: 2020-02-07
+     author: The Guardian Australia
+     title: Clover Moore demands PM explain Angus Taylor's use of false document to attack her
+     link: https://www.theguardian.com/australia-news/2020/feb/07/clover-moore-demands-pm-explain-angus-taylors-use-of-false-document-to-attack-her
+   - date: 2020-02-07
+     author: ABC
+     title: AFP drops Angus Taylor investigation over his use of allegedly forged documents in attack on Clover Moore
+     link: https://www.abc.net.au/news/2020-02-06/angus-taylor-clover-moore-investigation-dropped-by-afp/11937906
    - date: 2020-01-21
      author: The Sydney Morning Herald
      title: Taylor's office refuses to release majority of City of Sydney travel claim documents
