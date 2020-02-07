@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [ "Adverse Finding" ]
 authors:
    - name: ANAO
      link: https://www.anao.gov.au/
