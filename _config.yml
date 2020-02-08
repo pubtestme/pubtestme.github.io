@@ -22,6 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pubtest.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pubtestme
 github_username:  pubtestme
+google_analytics: UA-157944792-1
 
 # Build settings
 markdown: kramdown
