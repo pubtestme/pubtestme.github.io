@@ -49,11 +49,7 @@ primary source material backing claims
 ### How to Contribute
 
 The site is currently developed under the [pubtestme organisation on
-Github](
-
-
-
-). Contributions come in several types and can take on
+Github](pubtestme-repo). Contributions come in several types and can take on
 several forms:
 
 #### Forms of Contribution
