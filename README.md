@@ -8,7 +8,7 @@ Federal Government activities that are at odds with the public interest.
 
 If you see incorrect or unsubstantiated information, or think an existing
 activity that meets the criteria below should be tracked, please see the
-[contributing](/contributing/) page for how to proceed.
+[contributing](/CONTRIBUTING.md) page for how to proceed.
 
 Whether an activity is against public interest is measured by meeting one or
 more of the following criteria:
