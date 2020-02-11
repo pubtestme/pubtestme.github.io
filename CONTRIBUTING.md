@@ -20,13 +20,13 @@ more of the following criteria:
 
 1. A public institution has handed down a report that demonstrates an
 activity failed to meet legal obligations or required standards. For example,
-reports published by the [Australian National Audit Office (ANAO)](anao)
+reports published by the [Australian National Audit Office (ANAO)][anao]
 
 2. An activity that has been reported to disregard advice from relevant public
 servants, research or scientific organisations to the detriment of the public
 
 3. Activities reported to [breach ministerial standards as set out by the Department of
-the Prime Minister and Cabinet](pmc-ministerial-standards)
+the Prime Minister and Cabinet][pmc-ministerial-standards]
 
 4. Activities reported to breach the constitution, federal or state law.
 
@@ -49,13 +49,17 @@ primary source material backing claims
 ### How to Contribute
 
 The site is currently developed under the [pubtestme organisation on
-Github](pubtestme-repo). Contributions come in several types and can take on
+Github](
+
+
+
+). Contributions come in several types and can take on
 several forms:
 
 #### Forms of Contribution
 
-1. [Opening an issue](pubtestme-new-issue) against the site
-2. Developing a change and [opening a pull-request](pubtestme-new-pull-req)
+1. [Opening an issue][pubtestme-new-issue] against the site
+2. Developing a change and [opening a pull-request][pubtestme-new-pull-req]
 
 [pubtestme-new-issue]: https://github.com/pubtestme/pubtestme.github.io/issues/new
 [pubtestme-new-pull-req]: https://github.com/pubtestme/pubtestme.github.io/compare
