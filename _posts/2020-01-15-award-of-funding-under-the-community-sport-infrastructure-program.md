@@ -10,7 +10,13 @@ authors:
      link: https://www.theguardian.com/australia-news
    - name: The New Daily
      link: https://thenewdaily.com.au/
+   - name: Hansard
+     link: https://www.aph.gov.au/Parliamentary_Business/Hansard
 reports:
+   - date: 2020-02-13
+     author: Hansard
+     title: Select Committee on Administration of Sports Grants 13/02/2020
+     link: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;db=COMMITTEES;id=committees%2Fcommsen%2Fd0298186-bde8-4f3d-a14c-600ab8e111d4%2F0001;query=Id%3A%22committees%2Fcommsen%2Fd0298186-bde8-4f3d-a14c-600ab8e111d4%2F0000%22
    - date: 2020-01-15
      author: ANAO
      title: Award of Funding under the Community Sport Infrastructure Program
