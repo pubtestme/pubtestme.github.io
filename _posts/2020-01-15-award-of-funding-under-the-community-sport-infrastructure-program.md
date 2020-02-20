@@ -12,7 +12,13 @@ authors:
      link: https://thenewdaily.com.au/
    - name: Hansard
      link: https://www.aph.gov.au/Parliamentary_Business/Hansard
+   - name: Secretary, Department of Prime Minister and Cabinet
+     link: https://www.pmc.gov.au/who-we-are/the-secretary
 reports:
+   - date: 2020-02-14
+     author: Secretary, Department of Prime Minister and Cabinet
+     title: Submission to the Senate Select Committee on Administration of Sports Grants
+     link: https://www.aph.gov.au/DocumentStore.ashx?id=51eb7c74-1945-4ee5-84b9-d0039570f999&subId=678616
    - date: 2020-02-13
      author: Hansard
      title: Select Committee on Administration of Sports Grants 13/02/2020
