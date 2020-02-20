@@ -16,6 +16,10 @@ reports:
      title: Award of Funding under the Community Sport Infrastructure Program
      link: https://www.anao.gov.au/work/performance-audit/award-funding-under-the-community-sport-infrastructure-program
 headlines:
+   - date: 2020-02-13
+     author: ABC
+     title: Audit Office says Scott Morrison and Bridget McKenzie's offices shared partisan colour-coded spreadsheets
+     link: https://www.abc.net.au/news/2020-02-13/sports-grants-senate-auditor-general-bridget-mckenzie/11962104
    - date: 2020-02-02
      author: ABC
      title: Bridget McKenzie quits frontbench over report she breached ministerial standards
