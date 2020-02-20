@@ -28,6 +28,10 @@ reports:
      title: Award of Funding under the Community Sport Infrastructure Program
      link: https://www.anao.gov.au/work/performance-audit/award-funding-under-the-community-sport-infrastructure-program
 headlines:
+   - date: 2020-02-14
+     author: ABC
+     title: "PM's sports grants scandal report author Phil Gaetjens says program had 'significant shortcomings'"
+     link: https://www.abc.net.au/news/2020-02-14/phil-gaetjens-releases-sports-grant-submission-scott-morrison/11967302
    - date: 2020-02-13
      author: The Guardian Australia
      title: "Sports rorts: almost half the projects funded were ineligible, audit office says"
