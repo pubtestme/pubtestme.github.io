@@ -4,7 +4,7 @@
 {% endif %}
 
 {% if page.reports %}
-### Reports and Formal Correspondance
+### Reports, Transcripts and Formal Correspondance
 {% for report in page.reports %}
 {% for author in page.authors %}
 {% if report.author == author.name %}
