@@ -17,6 +17,10 @@ reports:
      link: https://www.anao.gov.au/work/performance-audit/award-funding-under-the-community-sport-infrastructure-program
 headlines:
    - date: 2020-02-13
+     author: The Guardian Australia
+     title: "Sports rorts: almost half the projects funded were ineligible, audit office says"
+     link: https://www.theguardian.com/australia-news/2020/feb/13/sports-rorts-almost-half-projects-funded-ineligible-audit-office-says
+   - date: 2020-02-13
      author: ABC
      title: Audit Office says Scott Morrison and Bridget McKenzie's offices shared partisan colour-coded spreadsheets
      link: https://www.abc.net.au/news/2020-02-13/sports-grants-senate-auditor-general-bridget-mckenzie/11962104
