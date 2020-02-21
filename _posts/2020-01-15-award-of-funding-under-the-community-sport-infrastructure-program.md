@@ -10,12 +10,36 @@ authors:
      link: https://www.theguardian.com/australia-news
    - name: The New Daily
      link: https://thenewdaily.com.au/
+   - name: Hansard
+     link: https://www.aph.gov.au/Parliamentary_Business/Hansard
+   - name: Secretary, Department of Prime Minister and Cabinet
+     link: https://www.pmc.gov.au/who-we-are/the-secretary
 reports:
+   - date: 2020-02-14
+     author: Secretary, Department of Prime Minister and Cabinet
+     title: Submission to the Senate Select Committee on Administration of Sports Grants
+     link: https://www.aph.gov.au/DocumentStore.ashx?id=51eb7c74-1945-4ee5-84b9-d0039570f999&subId=678616
+   - date: 2020-02-13
+     author: Hansard
+     title: Select Committee on Administration of Sports Grants 13/02/2020
+     link: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;db=COMMITTEES;id=committees%2Fcommsen%2Fd0298186-bde8-4f3d-a14c-600ab8e111d4%2F0001;query=Id%3A%22committees%2Fcommsen%2Fd0298186-bde8-4f3d-a14c-600ab8e111d4%2F0000%22
    - date: 2020-01-15
      author: ANAO
      title: Award of Funding under the Community Sport Infrastructure Program
      link: https://www.anao.gov.au/work/performance-audit/award-funding-under-the-community-sport-infrastructure-program
 headlines:
+   - date: 2020-02-14
+     author: ABC
+     title: "PM's sports grants scandal report author Phil Gaetjens says program had 'significant shortcomings'"
+     link: https://www.abc.net.au/news/2020-02-14/phil-gaetjens-releases-sports-grant-submission-scott-morrison/11967302
+   - date: 2020-02-13
+     author: The Guardian Australia
+     title: "Sports rorts: almost half the projects funded were ineligible, audit office says"
+     link: https://www.theguardian.com/australia-news/2020/feb/13/sports-rorts-almost-half-projects-funded-ineligible-audit-office-says
+   - date: 2020-02-13
+     author: ABC
+     title: Audit Office says Scott Morrison and Bridget McKenzie's offices shared partisan colour-coded spreadsheets
+     link: https://www.abc.net.au/news/2020-02-13/sports-grants-senate-auditor-general-bridget-mckenzie/11962104
    - date: 2020-02-02
      author: ABC
      title: Bridget McKenzie quits frontbench over report she breached ministerial standards
