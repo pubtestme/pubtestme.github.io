@@ -54,6 +54,7 @@ primary source material backing claims
 * [House of Representatives Committee Transcripts][hor-committee-transcripts]
 * [Australian National Audit Office][anao]
 * [Analysis & Policy Observatory][apo] ([RSS][apo-rss])
+* [Grant Connect][grant-connect]
 
 [parliamentary-business]: https://www.aph.gov.au/Parliamentary_Business
 [hansard]: https://www.aph.gov.au/Parliamentary_Business/Hansard
@@ -61,6 +62,7 @@ primary source material backing claims
 [hor-committee-transcripts]: http://parlinfo.aph.gov.au/parlInfo/search/summary/summary.w3p;adv=yes;orderBy=priority,doc_date-rev;query=Dataset%3AcomRep;resCount=Default
 [apo]: https://apo.org.au/
 [apo-rss]: https://apo.org.au/rss/all
+[grant-connect]: https://www.grants.gov.au/?event=public.home
 
 ### How to Contribute
 
