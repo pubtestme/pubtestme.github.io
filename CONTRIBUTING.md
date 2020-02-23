@@ -48,21 +48,21 @@ primary source material backing claims
 
 #### Useful Resources
 
-* [Paliamentary Business][parliamentary-business]
-* [Hansard][hansard]
-* [Senate Committee Transcripts][senate-committee-transcripts]
-* [House of Representatives Committee Transcripts][hor-committee-transcripts]
-* [Australian National Audit Office][anao]
 * [Analysis & Policy Observatory][apo] ([RSS][apo-rss])
+* [Australian National Audit Office][anao]
 * [Grant Connect][grant-connect]
+* [Hansard][hansard]
+* [House of Representatives Committee Transcripts][hor-committee-transcripts]
+* [Paliamentary Business][parliamentary-business]
+* [Senate Committee Transcripts][senate-committee-transcripts]
 
-[parliamentary-business]: https://www.aph.gov.au/Parliamentary_Business
-[hansard]: https://www.aph.gov.au/Parliamentary_Business/Hansard
-[senate-committee-transcripts]: http://parlinfo.aph.gov.au/parlInfo/search/summary/summary.w3p;adv=yes;orderBy=customrank;page=0;query=Dataset%3AcomSen,estimate;resCount=Default
-[hor-committee-transcripts]: http://parlinfo.aph.gov.au/parlInfo/search/summary/summary.w3p;adv=yes;orderBy=priority,doc_date-rev;query=Dataset%3AcomRep;resCount=Default
 [apo]: https://apo.org.au/
 [apo-rss]: https://apo.org.au/rss/all
 [grant-connect]: https://www.grants.gov.au/?event=public.home
+[hansard]: https://www.aph.gov.au/Parliamentary_Business/Hansard
+[hor-committee-transcripts]: http://parlinfo.aph.gov.au/parlInfo/search/summary/summary.w3p;adv=yes;orderBy=priority,doc_date-rev;query=Dataset%3AcomRep;resCount=Default
+[parliamentary-business]: https://www.aph.gov.au/Parliamentary_Business
+[senate-committee-transcripts]: http://parlinfo.aph.gov.au/parlInfo/search/summary/summary.w3p;adv=yes;orderBy=customrank;page=0;query=Dataset%3AcomSen,estimate;resCount=Default
 
 ### How to Contribute
 
