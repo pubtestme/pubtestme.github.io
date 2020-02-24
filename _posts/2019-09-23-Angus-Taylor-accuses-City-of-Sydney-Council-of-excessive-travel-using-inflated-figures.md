@@ -16,6 +16,10 @@ reports:
      title: City of Sydney Annual Report Statutory Returns 2017/18
      link: https://www.cityofsydney.nsw.gov.au/__data/assets/pdf_file/0004/309118/City-of-Sydney-Annual-Report-Statutory-Returns-2017-18.pdf
 headlines:
+   - date: 2020-02-19
+     author: The Guardian Australia
+     title: AFP did not interview Angus Taylor over false document before dropping investigation
+     link: https://www.theguardian.com/australia-news/2020/feb/19/afp-did-not-interview-angus-taylor-over-false-document-before-dropping-investigation
    - date: 2020-02-07
      author: The Guardian Australia
      title: Clover Moore demands PM explain Angus Taylor's use of false document to attack her
