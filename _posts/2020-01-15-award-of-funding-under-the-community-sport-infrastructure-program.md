@@ -15,6 +15,18 @@ authors:
    - name: Secretary, Department of Prime Minister and Cabinet
      link: https://www.pmc.gov.au/who-we-are/the-secretary
 reports:
+   - date: 2020-02-28
+     author: Hansard
+     title: Select Committee on Administration of Sports Grants 28/02/2020, Palmer
+     link: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;adv=yes;orderBy=customrank;page=0;query=Dataset%3AcomSen,estimate;rec=1;resCount=Default
+   - date: 2020-02-28
+     author: Hansard
+     title: Select Committee on Administration of Sports Grants 28/02/2020, Appleyard, Beauchamp, Musgrave, Studdert
+     link: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;adv=yes;orderBy=customrank;page=0;query=Dataset%3AcomSen,estimate;rec=2;resCount=Default
+   - date: 2020-02-27
+     author: Hansard
+     title: Select Committee on Administration of Sports Grants 27/02/2020, Dalton, McCann, Wylie
+     link: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;adv=yes;orderBy=customrank;page=0;query=Dataset%3AcomSen,estimate;rec=4;resCount=Default
    - date: 2020-02-26
      author: Hansard
      title: Proof, Wednesday, 26 February 2020
@@ -32,6 +44,10 @@ reports:
      title: Award of Funding under the Community Sport Infrastructure Program
      link: https://www.anao.gov.au/work/performance-audit/award-funding-under-the-community-sport-infrastructure-program
 headlines:
+   - date: 2020-02-28
+     author: The Guardian Australia
+     title: Senior public servant tells inquiry she destroyed sports grants meeting notes
+     link: https://theguardian.com/australia-news/2020/feb/28/senior-public-servant-tells-inquiry-she-destroyed-sports-grants-meeting-notes
    - date: 2020-02-26
      author: The Guardian Australia
      title: Scott Morrison and Bridget McKenzie's offices exchanged 136 emails about sports grants program
