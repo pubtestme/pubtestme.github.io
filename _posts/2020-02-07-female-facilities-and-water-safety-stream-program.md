@@ -7,7 +7,13 @@ authors:
      link: https://abc.net.au/
    - name: The Guardian Australia
      link: https://www.theguardian.com/australia-news
+   - name: The Sydney Morning Herald
+     link: https://www.smh.com.au/
 headlines:
+   - date: 2020-02-26
+     author: The Sydney Morning Herald
+     title: "A 'regional facility': Sydney mayor defends $10 million pool grant"
+     link: https://www.smh.com.au/national/a-regional-facility-sydney-mayor-defends-10-million-pool-grant-20200226-p544o5.html
    - date: 2020-02-07
      author: ABC
      title: Government's $150 million female sports program funnelled into swimming pools for marginal Coalition seats
