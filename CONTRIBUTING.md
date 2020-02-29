@@ -50,6 +50,7 @@ primary source material backing claims
 
 * [Analysis & Policy Observatory][apo] ([RSS][apo-rss])
 * [Australian National Audit Office][anao]
+* [Commonwealth Ombudsman][commonwealth-ombudsman]
 * [Grant Connect][grant-connect]
 * [Hansard][hansard]
 * [House of Representatives Committee Transcripts][hor-committee-transcripts]
@@ -58,6 +59,7 @@ primary source material backing claims
 
 [apo]: https://apo.org.au/
 [apo-rss]: https://apo.org.au/rss/all
+[commonwealth-ombudsman]: https://www.ombudsman.gov.au/
 [grant-connect]: https://www.grants.gov.au/?event=public.home
 [hansard]: https://www.aph.gov.au/Parliamentary_Business/Hansard
 [hor-committee-transcripts]: http://parlinfo.aph.gov.au/parlInfo/search/summary/summary.w3p;adv=yes;orderBy=priority,doc_date-rev;query=Dataset%3AcomRep;resCount=Default
