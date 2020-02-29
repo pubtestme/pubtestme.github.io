@@ -15,6 +15,10 @@ authors:
    - name: Secretary, Department of Prime Minister and Cabinet
      link: https://www.pmc.gov.au/who-we-are/the-secretary
 reports:
+   - date: 2020-02-26
+     author: Hansard
+     title: Proof, Wednesday, 26 February 2020
+     link: https://parlinfo.aph.gov.au/parlInfo/download/chamber/hansards/d636e948-ad32-4123-a451-4f3e200901fa/toc_pdf/Senate_2020_02_26_7549.pdf;fileType=application%2Fpdf
    - date: 2020-02-14
      author: Secretary, Department of Prime Minister and Cabinet
      title: Submission to the Senate Select Committee on Administration of Sports Grants
@@ -28,6 +32,10 @@ reports:
      title: Award of Funding under the Community Sport Infrastructure Program
      link: https://www.anao.gov.au/work/performance-audit/award-funding-under-the-community-sport-infrastructure-program
 headlines:
+   - date: 2020-02-26
+     author: The Guardian Australia
+     title: Scott Morrison and Bridget McKenzie's offices exchanged 136 emails about sports grants program
+     link: https://www.theguardian.com/australia-news/2020/feb/26/clubs-denied-sports-grants-demand-funding-saying-process-was-politically-motivated
    - date: 2020-02-14
      author: ABC
      title: "PM's sports grants scandal report author Phil Gaetjens says program had 'significant shortcomings'"
