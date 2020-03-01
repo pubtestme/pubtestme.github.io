@@ -3,15 +3,6 @@ layout: page
 title: Contributing
 permalink: /contributing/
 ---
-### Contributions and Trust Relationships
-
-Contributors and contributions adhering to the [Acceptable, preferred
-content](#markdown-acceptable-preferred-content) guidelines are welcomed.
-However, contributions are accepted at the discretion of site administrators
-and may be rejected on grounds of trust or other subjective properties. The
-content must be objective, but the administrators' relationship with
-contributors may not be.
-
 ### What to Contribute
 #### Material Criteria
 
@@ -134,3 +125,12 @@ as well as copyright information for significant contributions.
 All contributions must be in the form of a patch series or pull-request with
 each commit message containing a Signed-off-by line indicating acknowledgement
 of the [Developer Certificate of Origin](https://developercertificate.org/).
+
+### Contributions and Trust Relationships
+
+Contributors and contributions adhering to the [Acceptable, preferred
+content](#markdown-acceptable-preferred-content) guidelines are welcomed.
+However, contributions are accepted at the discretion of site administrators
+and may be rejected on grounds of trust or other subjective properties. The
+content must be objective, but the administrators' relationship with
+contributors may not be.
