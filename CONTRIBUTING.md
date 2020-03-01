@@ -65,9 +65,11 @@ several forms:
 
 #### Forms of Contribution
 
-1. [Opening an issue][pubtestme-new-issue] against the site
-2. Developing a change and [opening a pull-request][pubtestme-new-pull-req]
+1. Informal contributions to [the wiki][pubtestme-wiki]
+2. [Opening an issue][pubtestme-new-issue] against the site
+3. Developing a change and [opening a pull-request][pubtestme-new-pull-req]
 
+[pubtestme-wiki]: https://github.com/pubtestme/pubtestme.github.io/wiki
 [pubtestme-new-issue]: https://github.com/pubtestme/pubtestme.github.io/issues/new
 [pubtestme-new-pull-req]: https://github.com/pubtestme/pubtestme.github.io/compare
 
@@ -93,6 +95,19 @@ Contributions via pull-requests must adhere to the licensing and legal
 requirements outlined below.
 
 [pubtestme-repo]: https://github.com/pubtestme/pubtestme.github.io/
+
+#### The Wiki
+
+[The wiki][pubtestme-wiki] is not the main site, rather it's a staging area - a
+place to quickly jot down links or to collaborate on material that isn't yet
+fully formed. The aim is to keep it informal and low friction, but occasionally
+we may have to do some housekeeping to keep it sensible.
+
+Try to avoid creating wiki pages for incidents that are already present on the
+main site - if there are problems with an existing page please [open an
+issue][pubtestme-new-issue] instead. Similarly, once content is well-formed
+enough to be migrated to the main site its wiki page will eventually be
+removed.
 
 ### Licensing
 #### Content License
