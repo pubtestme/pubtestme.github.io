@@ -14,7 +14,13 @@ authors:
      link: https://www.aph.gov.au/Parliamentary_Business/Hansard
    - name: Secretary, Department of Prime Minister and Cabinet
      link: https://www.pmc.gov.au/who-we-are/the-secretary
+   - name: Senator Katy Gallagher
+     link: https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=ING
 reports:
+   - date: 2020-02-28
+     author: Senator Katy Gallagher
+     title: Request to Investigate Destruction of Documents by the Department of Health
+     link: https://twitter.com/SenKatyG/status/1233229652434411520/photo/1
    - date: 2020-02-28
      author: Hansard
      title: Select Committee on Administration of Sports Grants 28/02/2020, Palmer
