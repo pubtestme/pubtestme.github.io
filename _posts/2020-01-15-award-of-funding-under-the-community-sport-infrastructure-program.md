@@ -17,6 +17,10 @@ authors:
    - name: Senator Katy Gallagher
      link: https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=ING
 reports:
+   - date: 2020-03-02
+     author: Hansard
+     title: Finance and Public Administration Legislation Committee, 02/03/2020, Estimates, PRIME MINISTER AND CABINET PORTFOLIO, Australian National Audit Office
+     link: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;adv=yes;db=COMMITTEES;id=committees%2Festimate%2F5f83c1eb-df99-4979-8bf7-ddc1cc2ecafb%2F0011;orderBy=date-eFirst;page=0;query=Dataset%3AcomSen,estimate%20CommitteeName_Phrase%3A%22finance%20and%20public%20administration%20legislation%20committee%22;rec=0;resCount=Default
    - date: 2020-02-28
      author: Senator Katy Gallagher
      title: Request to Investigate Destruction of Documents by the Department of Health
@@ -50,6 +54,10 @@ reports:
      title: Award of Funding under the Community Sport Infrastructure Program
      link: https://www.anao.gov.au/work/performance-audit/award-funding-under-the-community-sport-infrastructure-program
 headlines:
+   - date: 2020-03-03
+     author: ABC
+     title: Government added projects to 'sports rorts' funding list just hours after Scott Morrison called election
+     link: https://www.abc.net.au/news/2020-03-03/govt-added-projects-to-sports-rorts-list-after-calling-election/12019326
    - date: 2020-02-28
      author: The Guardian Australia
      title: Senior public servant tells inquiry she destroyed sports grants meeting notes
