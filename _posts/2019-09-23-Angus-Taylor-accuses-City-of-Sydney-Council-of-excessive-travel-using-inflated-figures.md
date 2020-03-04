@@ -28,6 +28,14 @@ reports:
      title: City of Sydney Annual Report Statutory Returns 2017/18
      link: https://www.cityofsydney.nsw.gov.au/__data/assets/pdf_file/0004/309118/City-of-Sydney-Annual-Report-Statutory-Returns-2017-18.pdf
 headlines:
+   - date: 2020-03-02
+     author: The Guardian Australia
+     title: "Doctored documents saga: Angus Taylor says the 'matter is closed'"
+     link: https://www.theguardian.com/australia-news/2020/mar/02/afp-chief-defends-decision-not-to-investigate-angus-taylor-over-doctored-documents
+   - date: 2020-03-02
+     author: ABC
+     title: Angus Taylor says police probes into falsified letter were 'pretty thorough', despite lack of interviews
+     link: https://mobile.abc.net.au/news/2020-03-02/angus-taylor-says-police-probes-thorough-clover-moore-sydney/12018960
    - date: 2020-02-19
      author: The Guardian Australia
      title: AFP did not interview Angus Taylor over false document before dropping investigation
