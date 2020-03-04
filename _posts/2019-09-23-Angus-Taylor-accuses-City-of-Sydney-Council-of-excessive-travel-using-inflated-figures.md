@@ -12,7 +12,13 @@ authors:
      link: https://www.smh.com.au/
    - name: Australian Federal Police
      link: https://www.afp.gov.au/
+   - name: Hansard
+     link: https://www.aph.gov.au/Parliamentary_Business/Hansard
 reports:
+   - date: 2020-03-02
+     author: Hansard
+     title: Legal and Constitutional Affairs Legislation Committee 02/03/2020, Estimates, HOME AFFAIRS PORTFOLIO, Australian Federal Police
+     link: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;adv=yes;db=COMMITTEES;id=committees%2Festimate%2F9cba4477-60ef-40db-a537-241108688a6c%2F0002;orderBy=date-eFirst;page=0;query=Dataset%3AcomSen,estimate%20CommitteeName_Phrase%3A%22legal%20and%20constitutional%20affairs%20legislation%20committee%22;rec=0;resCount=Default
    - date: 2020-02-06
      author: Australian Federal Police
      title: Response to Mark Dreyfus QC's Request for Investigation of Angus Taylor
