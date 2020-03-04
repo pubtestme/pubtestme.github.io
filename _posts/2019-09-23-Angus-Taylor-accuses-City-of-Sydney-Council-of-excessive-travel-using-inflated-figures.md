@@ -10,7 +10,13 @@ authors:
      link: https://www.theguardian.com/australia-news
    - name: The Sydney Morning Herald
      link: https://www.smh.com.au/
+   - name: Australian Federal Police
+     link: https://www.afp.gov.au/
 reports:
+   - date: 2020-02-06
+     author: Australian Federal Police
+     title: Response to Mark Dreyfus QC's Request for Investigation of Angus Taylor
+     link: https://twitter.com/KKeneally/status/1234251129887711232/photo/1
    - date: 2018-11-27
      author: City of Sydney
      title: City of Sydney Annual Report Statutory Returns 2017/18
