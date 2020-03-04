@@ -36,6 +36,14 @@ headlines:
      author: ABC
      title: NSW Police refers Angus Taylor investigation to Australian Federal Police
      link: https://www.abc.net.au/news/2020-01-02/angus-taylor-investigation-referred-to-afp/11837218
+   - date: 2019-11-27
+     author: The Sydney Morning Herald
+     title: Scott Morrison under fire over phone call to police commissioner
+     link: https://www.smh.com.au/politics/federal/scott-morrison-under-fire-over-phone-call-to-police-commissioner-20191127-p53epd.html
+   - date: 2019-11-26
+     author: The Sydney Morning Herald
+     title: "Morrison stands by Angus Taylor as police investigate 'fraudulent' documents"
+     link: https://www.smh.com.au/politics/federal/nsw-police-investigating-angus-taylor-over-alleged-fraudulent-documents-20191126-p53e9r.html
    - date: 2019-10-23
      author: The Guardian Australia
      title: "Mystery of the doctored documents: Angus Taylor and the climate attack on Sydney's lord mayor"
