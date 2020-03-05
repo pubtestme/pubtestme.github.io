@@ -18,7 +18,13 @@ authors:
      link: https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=ING
    - name: The Sydney Morning Herald
      link: https://www.smh.com.au/
+   - name: Senator Bridget McKenzie
+     link: https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=207825
 reports:
+   - date: 2020-03-05
+     author: Senator Bridget McKenzie
+     title: Statement Regarding Senate Estimates
+     link: http://www.bridgetmckenzie.com.au/Media/Media-Releases/ID/1265/Statement--Senate-Estimates
    - date: 2020-03-02
      author: Hansard
      title: Finance and Public Administration Legislation Committee, 02/03/2020, Estimates, PRIME MINISTER AND CABINET PORTFOLIO, Australian National Audit Office
