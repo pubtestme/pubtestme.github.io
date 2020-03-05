@@ -129,11 +129,13 @@ summary: |
   assessment process parallel to Community Sport Infrastructure Grant Program
   to determine the recipients of grant money associated with the program.
 
-  "A significant shortcoming was that, while the program guidelines identified
-  that the Minister for Sport would approve CSIG funding, there are no records
-  evidencing that the Minister was advised of the legal basis on which the
-  Minister could undertake an approval role, and it is not evident to the ANAO
-  what the legal authority was." - ANAO
+  > A significant shortcoming was that, while the program guidelines identified
+  > that the Minister for Sport would approve CSIG funding, there are no records
+  > evidencing that the Minister was advised of the legal basis on which the
+  > Minister could undertake an approval role, and it is not evident to the ANAO
+  > what the legal authority was.
+
+  [ANAO](https://www.anao.gov.au/work/performance-audit/award-funding-under-the-community-sport-infrastructure-program)
 
 ---
 {% include incident.md %}
