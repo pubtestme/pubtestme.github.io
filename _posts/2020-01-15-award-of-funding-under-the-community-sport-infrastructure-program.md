@@ -58,6 +58,10 @@ reports:
 headlines:
    - date: 2020-03-05
      author: The Sydney Morning Herald
+     title: "'Unbeknown to me': McKenzie rejects 'sports rorts' back-dating claim"
+     link: https://www.smh.com.au/politics/federal/unbeknown-to-me-mckenzie-rejects-sports-rorts-back-dating-claim-20200305-p547d4.html
+   - date: 2020-03-05
+     author: The Sydney Morning Herald
      title: Country tennis club takes legal action after 'sports rort' scandal
      link: https://www.smh.com.au/national/country-tennis-club-takes-legal-action-after-sports-rort-scandal-20200304-p546xl.html
    - date: 2020-03-03
