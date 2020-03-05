@@ -31,14 +31,16 @@ headlines:
      title: Farmers and drought-affected communities to receive an extra $100m in federal funding
      link: https://www.abc.net.au/news/2019-09-27/extra-money-for-drought-communities-as-dry-conditions-linger/11553366
 summary: |
-  "Prime Minister Scott Morrison, Deputy Prime Minister Michael McCormack, and
-  then-agriculture minister David Littleproud announced last April if the
-  Coalition was elected it would add 14 local government areas to the list of
-  councils eligible for grants of up to $1 million.
+  > Prime Minister Scott Morrison, Deputy Prime Minister Michael McCormack, and
+  > hen-agriculture minister David Littleproud announced last April if the
+  > oalition was elected it would add 14 local government areas to the list of
+  > ouncils eligible for grants of up to $1 million.
+  >
+  > But a response provided as part of Senate estimates shows that six of the
+  > councils did not meet the requirement that at least 17 per cent of workers in
+  > the local government authority be employed in agriculture.
 
-  But a response provided as part of Senate estimates shows that six of the
-  councils did not meet the requirement that at least 17 per cent of workers in
-  the local government authority be employed in agriculture." - ABC
+  [ABC](https://www.abc.net.au/news/2020-01-29/government-ignores-drought-program-criteria/11909022)
 
 ---
 {% include incident.md %}
