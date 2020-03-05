@@ -2,6 +2,7 @@
 title: Award of Funding Under The Environment Restoration Fund & The Communities Environment Program
 layout: post
 tags: [ "Under Scrutiny" ]
+modified_date: 2020-02-16
 authors:
    - name: Senator Sarah Hanson-Young
      link: https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=I0U
