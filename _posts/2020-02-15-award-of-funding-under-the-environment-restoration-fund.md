@@ -18,11 +18,12 @@ headlines:
      title: Environment grants awarded by invitation only
      link: https://www.thesaturdaypaper.com.au/news/politics/2020/02/15/environment-grants-awarded-invitation-only/15816852009403
 summary: |
-  "A $100 million environmental grants program, created ahead of last year’s
-  federal election, had no eligibility guidelines and was open only to 25
-  specified projects that had already been chosen and announced as campaign
-  promises – most of which were in seats held or targeted by the Coalition".
-  \- The Saturday Paper
+  > A $100 million environmental grants program, created ahead of last year’s
+  > ederal election, had no eligibility guidelines and was open only to 25
+  > pecified projects that had already been chosen and announced as campaign
+  > romises – most of which were in seats held or targeted by the Coalition.
+
+  [The Saturday Paper](https://www.thesaturdaypaper.com.au/news/politics/2020/02/15/environment-grants-awarded-invitation-only/15816852009403)
 
 ---
 {% include incident.md %}
