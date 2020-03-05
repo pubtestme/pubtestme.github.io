@@ -16,6 +16,8 @@ authors:
      link: https://www.pmc.gov.au/who-we-are/the-secretary
    - name: Senator Katy Gallagher
      link: https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=ING
+   - name: The Sydney Morning Herald
+     link: https://www.smh.com.au/
 reports:
    - date: 2020-03-02
      author: Hansard
@@ -54,6 +56,10 @@ reports:
      title: Award of Funding under the Community Sport Infrastructure Program
      link: https://www.anao.gov.au/work/performance-audit/award-funding-under-the-community-sport-infrastructure-program
 headlines:
+   - date: 2020-03-05
+     author: The Sydney Morning Herald
+     title: Country tennis club takes legal action after 'sports rort' scandal
+     link: https://www.smh.com.au/national/country-tennis-club-takes-legal-action-after-sports-rort-scandal-20200304-p546xl.html
    - date: 2020-03-03
      author: ABC
      title: Government added projects to 'sports rorts' funding list just hours after Scott Morrison called election
