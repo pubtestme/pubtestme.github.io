@@ -9,15 +9,17 @@ authors:
    - name: Michael West Media
      link: https://www.michaelwest.com.au/
 summary: |
-  "An investigation into illegal land clearing against a company part-owned by
-  the family of federal minister Angus Taylor was dropped by the New South
-  Wales government, and a separate investigation under federal environmental
-  laws has taken more than two years.
+  > An investigation into illegal land clearing against a company part-owned by
+  > the family of federal minister Angus Taylor was dropped by the New South
+  > Wales government, and a separate investigation under federal environmental
+  > laws has taken more than two years.
+  >
+  > Both actions relate to allegations of clearing of endangered native grassland
+  > in October 2016 near Delegate in southern NSW shortly after a company, Jam
+  > Land Pty Ltd, purchased the property. A NSW government briefing document
+  > alleged about 200 hectares were illegally cleared.
 
-  Both actions relate to allegations of clearing of endangered native grassland
-  in October 2016 near Delegate in southern NSW shortly after a company, Jam
-  Land Pty Ltd, purchased the property. A NSW government briefing document
-  alleged about 200 hectares were illegally cleared." - The Guardian Australia
+  [The Guardian Australia](https://www.theguardian.com/australia-news/2019/apr/08/nsw-government-abandoned-land-clearing-investigation-into-company-linked-to-angus-taylor)
 
 headlines:
    - date: 2019-10-15
