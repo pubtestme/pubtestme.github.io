@@ -18,13 +18,15 @@ headlines:
      title: "'Another rort': Infrastructure program awarded 94% of grants to Coalition, marginal seats"
      link: https://www.smh.com.au/politics/federal/another-government-rort-infrastructure-grants-program-awarded-94-percent-of-cash-to-coalition-marginal-seats-20200203-p53x7s.html
 summary: |
-  "A regional infrastructure grants program administered by the Deputy Prime
-  Minister awarded 94 per cent of its grants to electorates held or targeted by
-  the Coalition in the months leading up to the federal election."
+  > A regional infrastructure grants program administered by the Deputy Prime
+  > inister awarded 94 per cent of its grants to electorates held or targeted by
+  > he Coalition in the months leading up to the federal election.
+  >
+  > Labor infrastructure spokeswoman Catherine King has asked the
+  > Auditor-General to 'take a thorough look' at the Building Better Regions Fund
+  > infrastructure grants program administered by Michael McCormack.
 
-  "Labor infrastructure spokeswoman Catherine King has asked the
-  Auditor-General to 'take a thorough look' at the Building Better Regions Fund
-  infrastructure grants program administered by Michael McCormack." - The Sydney Morning Herald
+  [The Sydney Morning Herald](https://www.smh.com.au/politics/federal/another-government-rort-infrastructure-grants-program-awarded-94-percent-of-cash-to-coalition-marginal-seats-20200203-p53x7s.html)
 
 ---
 {% include incident.md %}
