@@ -3,18 +3,19 @@ title: Income Data Matching for Welfare Recipients
 layout: post
 tags: [ "Perspectives Converging" ]
 summary: |
-  "In July 2016 the Department of Human Services (DHS) - Centrelink - launched
-  a new online compliance intervention (OCI) system for raising and recovering
-  debts. The OCI matches the earnings recorded on a customer’s Centrelink
-  record with historical employer-reported income data from the Australian
-  Taxation Office (ATO). Parts of the debt raising process previously done
-  manually by compliance officers within DHS are now done using this automated
-  process. Customers are asked to confirm or update their income using the
-  online system. If the customer does not engage with DHS either online or in
-  person, or if there are gaps in the information provided by the customer, the
-  system will fill the gaps with a fortnightly income figure derived from the
-  ATO income data for the relevant employment period (‘averaged’ data)." - The
-  Commonwealth Ombudsman
+  > In July 2016 the Department of Human Services (DHS) - Centrelink - launched
+  > a new online compliance intervention (OCI) system for raising and recovering
+  > debts. The OCI matches the earnings recorded on a customer’s Centrelink
+  > record with historical employer-reported income data from the Australian
+  > Taxation Office (ATO). Parts of the debt raising process previously done
+  > manually by compliance officers within DHS are now done using this automated
+  > process. Customers are asked to confirm or update their income using the
+  > online system. If the customer does not engage with DHS either online or in
+  > person, or if there are gaps in the information provided by the customer, the
+  > system will fill the gaps with a fortnightly income figure derived from the
+  > ATO income data for the relevant employment period (‘averaged’ data).
+
+  [The Commonwealth Ombudsman](https://www.ombudsman.gov.au/__data/assets/pdf_file/0022/43528/Report-Centrelinks-automated-debt-raising-and-recovery-system-April-2017.pdf)
 authors:
    - name: Terry Carney, AO
      link: https://sydney.edu.au/law/about/our-people/academic-staff/terry-carney.html

@@ -19,10 +19,11 @@ headlines:
      title: Liberal party claims declaration of a $165k donation by Morrison ally was a mistake
      link: https://www.theguardian.com/australia-news/2020/feb/06/liberal-party-refuses-questions-over-165k-donation-by-morrison-ally-bidding-for-1bn-visa-privatisation-contract
 summary: |
-  "The Liberal party is refusing to say why it scrubbed records of a $165,000
-  donation from a company run by Scott Briggs, a key Scott Morrison ally who is
-  currently vying to win the government’s $1bn visa privatisation contract." -
-  The Guardian Australia
+  > The Liberal party is refusing to say why it scrubbed records of a $165,000
+  > donation from a company run by Scott Briggs, a key Scott Morrison ally who is
+  > currently vying to win the government’s $1bn visa privatisation contract.
+
+  [The Guardian Australia](https://www.theguardian.com/australia-news/2020/feb/06/liberal-party-refuses-questions-over-165k-donation-by-morrison-ally-bidding-for-1bn-visa-privatisation-contract)
 
 ---
 {% include incident.md %}
