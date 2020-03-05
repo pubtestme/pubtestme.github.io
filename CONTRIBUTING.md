@@ -3,7 +3,60 @@ layout: page
 title: Contributing
 permalink: /contributing/
 ---
-### What to Contribute
+### How
+
+1. Say something via email: [contact@pubtest.me](mailto:contact@pubtest.me)
+2. Hit us up on Twitter via [@pubtestme][pubtestme-twitter]
+3. Work on [the wiki][pubtestme-wiki]
+4. [Open an issue][pubtestme-new-issue] against the site
+5. Develop a change and [open a pull-request][pubtestme-new-pull-req]
+
+The top of the list is the easiest and the bottom requires the most effort and
+experience. Working on the wiki, creating an issue or opening a pull-request
+all [require a (free) GitHub account][github-join].
+
+[github-join]: https://github.com/join
+[pubtestme-new-issue]: https://github.com/pubtestme/pubtestme.github.io/issues/new
+[pubtestme-new-pull-req]: https://github.com/pubtestme/pubtestme.github.io/compare
+[pubtestme-twitter]: https://twitter.com/pubtestme
+[pubtestme-wiki]: https://github.com/pubtestme/pubtestme.github.io/wiki
+
+#### The Wiki
+
+[The wiki][pubtestme-wiki] is not the main site, rather it's a staging area - a
+place to quickly jot down links or to collaborate on material that isn't yet
+fully formed. The aim is to keep it informal and low friction, but occasionally
+we may have to do some housekeeping to keep it sensible.
+
+Try to avoid creating wiki pages for incidents that are already present on the
+main site - if there are problems with an existing page use [one of the other
+options for contributing](#how) instead. Similarly, once content is well-formed
+enough to be migrated to the main site its wiki page will eventually be
+removed.
+
+### What
+
+1. Identifying or fixing bad content
+2. Contributing a report or news article
+3. Contributing an incident
+
+Contributions identifying bad content should contain a short statement of the
+problem, include a link to the incident at hand, and ideally suggest a
+resolution.
+
+Contributions of new incidents should be self contained: There must be a summary of
+the activity in question, and at least one of either a formal report or a news
+headline to anchor the activity in reality and time. New posts can be
+contributed in both issue and pull-request forms. If the content meets the
+[material criteria](#material-criteria) then site administrators will implement
+the site changes and attribute them to the issue owner.
+
+Contributions via pull-requests must adhere to the [licensing and legal
+requirements outlined below](#licensing).
+
+[pubtestme-repo]: https://github.com/pubtestme/pubtestme.github.io/
+
+### Content
 #### Material Criteria
 
 Whether an activity is against public interest is measured by meeting one or
@@ -61,63 +114,12 @@ primary source material backing claims
 [parliamentary-business]: https://www.aph.gov.au/Parliamentary_Business
 [senate-committee-transcripts]: http://parlinfo.aph.gov.au/parlInfo/search/summary/summary.w3p;adv=yes;orderBy=customrank;page=0;query=Dataset%3AcomSen,estimate;resCount=Default
 
-### How to Contribute
-
-The site is currently developed under the [pubtestme organisation on
-Github](pubtestme-repo). Contributions come in several types and can take on
-several forms:
-
-#### Forms of Contribution
-
-1. Informal contributions to [the wiki][pubtestme-wiki]
-2. [Opening an issue][pubtestme-new-issue] against the site
-3. Developing a change and [opening a pull-request][pubtestme-new-pull-req]
-
-[pubtestme-wiki]: https://github.com/pubtestme/pubtestme.github.io/wiki
-[pubtestme-new-issue]: https://github.com/pubtestme/pubtestme.github.io/issues/new
-[pubtestme-new-pull-req]: https://github.com/pubtestme/pubtestme.github.io/compare
-
-#### Types of Contribution
-
-1. Corrections-to or flagging-of content
-2. Contributing an incident
-
-Contributions correcting or flagging content must contain a concise statement
-of the problem. If the contribution is via opening an issue to identify the
-defect then the issue must have title identifying the problem, include a link
-to the content at hand, and ideally suggest a resolution.
-
-Contributions of new posts should be self contained: There must be a summary of
-the activity in question, and at least one of either a formal report or a news
-headline to anchor the activity in reality and time. New posts can be
-contributed in both issue and pull-request forms. If an issue is opened and the
-activity described meets the [material criteria](#material-criteria) then site
-administrators will implement the site changes and attribute them to the issue
-owner.
-
-Contributions via pull-requests must adhere to the licensing and legal
-requirements outlined below.
-
-[pubtestme-repo]: https://github.com/pubtestme/pubtestme.github.io/
-
-#### The Wiki
-
-[The wiki][pubtestme-wiki] is not the main site, rather it's a staging area - a
-place to quickly jot down links or to collaborate on material that isn't yet
-fully formed. The aim is to keep it informal and low friction, but occasionally
-we may have to do some housekeeping to keep it sensible.
-
-Try to avoid creating wiki pages for incidents that are already present on the
-main site - if there are problems with an existing page please [open an
-issue][pubtestme-new-issue] instead. Similarly, once content is well-formed
-enough to be migrated to the main site its wiki page will eventually be
-removed.
 
 ### Licensing
 #### Content License
 
 "Content" covers any data that is acted upon by code that is not itself code.
-Content may take the form of freeform text and elements of attribution as
+Content may take the form of free-form text and elements of attribution as
 covered by [Acceptable, preferred
 content](#acceptable-preferred-content).
 
