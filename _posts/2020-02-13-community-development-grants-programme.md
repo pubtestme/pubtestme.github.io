@@ -2,6 +2,7 @@
 title: Award of Funding Under The Community Development Grants Programme
 layout: post
 tags: [ "Under Scrutiny" ]
+modified_date: 2020-02-14
 authors:
    - name: Senator Larissa Waters
      link: https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=192970
