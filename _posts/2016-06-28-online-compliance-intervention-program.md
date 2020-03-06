@@ -2,7 +2,7 @@
 title: Income Data Matching for Welfare Recipients
 layout: post
 tags: [ "Perspectives Converging" ]
-modified_date: 2020-02-12
+modified_date: 2020-03-06
 summary: |
   > In July 2016 the Department of Human Services (DHS) - Centrelink - launched
   > a new online compliance intervention (OCI) system for raising and recovering
@@ -42,6 +42,14 @@ reports:
      title: Centrelink's automated debt raising and recovery system - A Report About the Department of Human Services’ Online Compliance Intervention System for Debt Raising and Recovery
      link: https://www.ombudsman.gov.au/__data/assets/pdf_file/0022/43528/Report-Centrelinks-automated-debt-raising-and-recovery-system-April-2017.pdf
 headlines:
+   - date: 2020-03-06
+     author: The Guardian Australia
+     title: Officials refuse to say how many flawed robodebts they have found
+     link: https://www.theguardian.com/australia-news/2020/mar/06/centrelink-robodebt-senate-estimates-class-action
+   - date: 2020-02-18
+     author: The Guardian Australia
+     title: Coalition says it has no duty of care for welfare recipients over robodebt
+     link: https://www.theguardian.com/australia-news/2020/feb/18/coalition-says-it-has-no-duty-of-care-for-welfare-recipients-over-robodebt
    - date: 2020-02-12
      author: The Guardian Australia
      title: Coalition warned robodebt scheme was unenforceable three years before it acted 
