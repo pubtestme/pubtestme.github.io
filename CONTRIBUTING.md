@@ -13,8 +13,9 @@ permalink: /contributing/
 
 The top of the list is the easiest and the bottom requires the most effort and
 experience. Working on the wiki, creating an issue or opening a pull-request
-all [require a (free) GitHub account][github-join].
+all [require a (free) GitHub account][github-join] ([what is GitHub?][github]).
 
+[github]: https://github.com/
 [github-join]: https://github.com/join
 [pubtestme-new-issue]: https://github.com/pubtestme/pubtestme.github.io/issues/new
 [pubtestme-new-pull-req]: https://github.com/pubtestme/pubtestme.github.io/compare
@@ -99,6 +100,7 @@ primary source material backing claims
 * [Hansard][hansard]
 * [House of Representatives Committee Transcripts][hor-committee-transcripts]
 * [Paliamentary Business][parliamentary-business]
+* [Parlwork][parlwork]
 * [Register of Members' Interests][members-interests]
 * [Senate Committee Transcripts][senate-committee-transcripts]
 * [Support for Businesses in Australia][business-gov-au]
@@ -112,6 +114,7 @@ primary source material backing claims
 [hor-committee-transcripts]: http://parlinfo.aph.gov.au/parlInfo/search/summary/summary.w3p;adv=yes;orderBy=priority,doc_date-rev;query=Dataset%3AcomRep;resCount=Default
 [members-interests]: https://www.aph.gov.au/Senators_and_Members/Members/Register
 [parliamentary-business]: https://www.aph.gov.au/Parliamentary_Business
+[parlwork]: https://parlwork.aph.gov.au/
 [senate-committee-transcripts]: http://parlinfo.aph.gov.au/parlInfo/search/summary/summary.w3p;adv=yes;orderBy=customrank;page=0;query=Dataset%3AcomSen,estimate;resCount=Default
 
 
