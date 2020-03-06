@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [ "Adverse Finding" ]
-modified_date: 2020-03-05
+modified_date: 2020-03-06
 authors:
    - name: ANAO
      link: https://www.anao.gov.au/
@@ -21,6 +21,8 @@ authors:
      link: https://www.smh.com.au/
    - name: Senator Bridget McKenzie
      link: https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=207825
+   - name: Yahoo News Australia
+     link: https://au.news.yahoo.com/
 reports:
    - date: 2020-03-05
      author: Senator Bridget McKenzie
@@ -63,6 +65,10 @@ reports:
      title: Award of Funding under the Community Sport Infrastructure Program
      link: https://www.anao.gov.au/work/performance-audit/award-funding-under-the-community-sport-infrastructure-program
 headlines:
+   - date: 2020-03-06
+     author: Yahoo News Australia
+     title: "'Not talking about that': PM savaged for silent treatment at coronavirus presser"
+     link: https://au.news.yahoo.com/scott-morrison-lashed-for-silent-treatment-at-coronavirus-presser-030718486.html
    - date: 2020-03-05
      author: The Sydney Morning Herald
      title: "'Unbeknown to me': McKenzie rejects 'sports rorts' back-dating claim"
