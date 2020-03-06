@@ -13,8 +13,9 @@ permalink: /contributing/
 
 The top of the list is the easiest and the bottom requires the most effort and
 experience. Working on the wiki, creating an issue or opening a pull-request
-all [require a (free) GitHub account][github-join].
+all [require a (free) GitHub account][github-join] ([what is GitHub?][github]).
 
+[github]: https://github.com/
 [github-join]: https://github.com/join
 [pubtestme-new-issue]: https://github.com/pubtestme/pubtestme.github.io/issues/new
 [pubtestme-new-pull-req]: https://github.com/pubtestme/pubtestme.github.io/compare
