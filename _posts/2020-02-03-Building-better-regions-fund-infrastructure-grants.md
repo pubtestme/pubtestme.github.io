@@ -2,6 +2,7 @@
 title: Award Of Funding Under The Building Better Regions Fund Grant Program
 layout: post
 tags: [ "Under Scrutiny" ]
+modified_date: 2020-02-03
 authors:
    - name: ANAO
      link: https://www.anao.gov.au/

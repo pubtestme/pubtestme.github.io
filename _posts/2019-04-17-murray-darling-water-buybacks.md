@@ -1,6 +1,7 @@
 ---
 layout: post
 tags: [ "Under Scrutiny" ]
+modified_date: 2020-02-26
 summary: |
   > Despite questions in the Senate, calls for papers and freedom of information
   > requests, mystery still surrounds the reason the former agriculture minister

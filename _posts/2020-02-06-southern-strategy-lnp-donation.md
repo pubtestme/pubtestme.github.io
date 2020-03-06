@@ -2,6 +2,7 @@
 title: Retracted Declaration of $165k Southern Strategy Donation to the Liberal Party
 layout: post
 tags: [ "Under Scrutiny" ]
+modified_date: 2020-02-07
 authors:
    - name: The Guardian Australia
      link: https://www.theguardian.com/australia-news
