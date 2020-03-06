@@ -99,6 +99,7 @@ primary source material backing claims
 * [Hansard][hansard]
 * [House of Representatives Committee Transcripts][hor-committee-transcripts]
 * [Paliamentary Business][parliamentary-business]
+* [Parlwork][parlwork]
 * [Register of Members' Interests][members-interests]
 * [Senate Committee Transcripts][senate-committee-transcripts]
 * [Support for Businesses in Australia][business-gov-au]
@@ -112,6 +113,7 @@ primary source material backing claims
 [hor-committee-transcripts]: http://parlinfo.aph.gov.au/parlInfo/search/summary/summary.w3p;adv=yes;orderBy=priority,doc_date-rev;query=Dataset%3AcomRep;resCount=Default
 [members-interests]: https://www.aph.gov.au/Senators_and_Members/Members/Register
 [parliamentary-business]: https://www.aph.gov.au/Parliamentary_Business
+[parlwork]: https://parlwork.aph.gov.au/
 [senate-committee-transcripts]: http://parlinfo.aph.gov.au/parlInfo/search/summary/summary.w3p;adv=yes;orderBy=customrank;page=0;query=Dataset%3AcomSen,estimate;resCount=Default
 
 
