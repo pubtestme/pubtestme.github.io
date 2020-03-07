@@ -28,6 +28,10 @@ reports:
      author: Senator Bridget McKenzie
      title: Statement Regarding Senate Estimates
      link: http://www.bridgetmckenzie.com.au/Media/Media-Releases/ID/1265/Statement--Senate-Estimates
+   - date: 2020-03-04
+     author: Hansard
+     title: Community Affairs Legislation Committee, 04/03/2020, Estimates, HEALTH PORTFOLIO, Sport Australia
+     link: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22committees%2Festimate%2F66ba932e-d456-4ae0-a126-3505810be0f8%2F0003%22
    - date: 2020-03-02
      author: Hansard
      title: Finance and Public Administration Legislation Committee, 02/03/2020, Estimates, PRIME MINISTER AND CABINET PORTFOLIO, Australian National Audit Office
