@@ -2,18 +2,30 @@
 title: $443 Million Great Barrier Reef Grant
 layout: post
 tags: [ "Adverse Finding" ]
-modified_date: 2019-01-16
+modified_date: 2019-02-14
 authors:
    - name: ANAO
      link: https://www.anao.gov.au/
    - name: ABC
      link: https://abc.net.au/
+   - name: The Guardian Australia
+     link: https://www.theguardian.com/australia-news
+   - name: Environment and Communications Committee
+     link: https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications
 reports:
+   - date: 2019-02-13
+     author: Environment and Communications Committee
+     title: "Report: Great Barrier Reef 2050 Partnership Program"
+     link: https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/GBRPartnershipProgram/Report
    - date: 2019-01-16
      author: ANAO
      title: Award of a $443.3 Million Grant to the Great Barrier Reef Foundation
      link: https://www.anao.gov.au/work/performance-audit/award-4433-million-grant-to-the-great-barrier-reef-foundation
 headlines:
+   - date: 2019-02-14
+     author: The Guardian Australia
+     title: "'Highly irresponsible': Senate calls for Great Barrier Reef Foundation to return money"
+     link: https://www.theguardian.com/environment/2019/feb/14/highly-irresponsible-senate-calls-for-great-barrier-reef-foundation-to-return-money
    - date: 2019-01-16
      author: ABC
      title: Controversial Great Barrier Reef grant did not comply with transparency rules, National Audit Office says
