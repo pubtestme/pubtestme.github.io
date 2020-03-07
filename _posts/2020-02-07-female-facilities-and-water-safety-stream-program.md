@@ -2,7 +2,7 @@
 title: Award of Funding Under The Female Facilities and Water Safety Stream Program
 layout: post
 tags: [ Suspicious ]
-modified_date: 2020-02-26
+modified_date: 2020-03-04
 authors:
    - name: ABC
      link: https://abc.net.au/
@@ -10,6 +10,13 @@ authors:
      link: https://www.theguardian.com/australia-news
    - name: The Sydney Morning Herald
      link: https://www.smh.com.au/
+   - name: Hansard
+     link: https://www.aph.gov.au/Parliamentary_Business/Hansard
+reports:
+   - date: 2020-03-04
+     author: Hansard
+     title: Community Affairs Legislation Committee, 04/03/2020, Estimates, HEALTH PORTFOLIO, Sport Australia
+     link: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22committees%2Festimate%2F66ba932e-d456-4ae0-a126-3505810be0f8%2F0003%22
 headlines:
    - date: 2020-02-26
      author: The Sydney Morning Herald
