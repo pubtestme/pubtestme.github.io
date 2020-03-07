@@ -1,7 +1,7 @@
 ---
 title: Award of Funding Under The Female Facilities and Water Safety Stream Program
 layout: post
-tags: [ Suspicious ]
+tags: [ "Under Scrutiny" ]
 modified_date: 2020-03-04
 authors:
    - name: ABC
