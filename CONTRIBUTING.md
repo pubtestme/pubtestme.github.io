@@ -95,6 +95,7 @@ primary source material backing claims
 
 * [Analysis & Policy Observatory][apo] ([RSS][apo-rss])
 * [Australian National Audit Office][anao]
+* [Commonwealth Grants Rules and Guidelines][grants-rules-and-guidelines]
 * [Commonwealth Ombudsman][commonwealth-ombudsman]
 * [Grant Connect][grant-connect]
 * [Hansard][hansard]
@@ -110,6 +111,7 @@ primary source material backing claims
 [business-gov-au]: https://www.business.gov.au/
 [commonwealth-ombudsman]: https://www.ombudsman.gov.au/
 [grant-connect]: https://www.grants.gov.au/?event=public.home
+[grants-rules-and-guidelines]: https://www.finance.gov.au/government/commonwealth-grants/commonwealth-grants-rules-guidelines
 [hansard]: https://www.aph.gov.au/Parliamentary_Business/Hansard
 [hor-committee-transcripts]: http://parlinfo.aph.gov.au/parlInfo/search/summary/summary.w3p;adv=yes;orderBy=priority,doc_date-rev;query=Dataset%3AcomRep;resCount=Default
 [members-interests]: https://www.aph.gov.au/Senators_and_Members/Members/Register
