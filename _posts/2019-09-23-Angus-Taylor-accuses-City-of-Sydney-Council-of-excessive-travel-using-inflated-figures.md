@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [ "Under Scrutiny" ]
-modified_date: 2020-03-02
+modified_date: 2020-03-10
 authors:
    - name: City of Sydney
      link: https://www.cityofsydney.nsw.gov.au/
@@ -29,6 +29,10 @@ reports:
      title: City of Sydney Annual Report Statutory Returns 2017/18
      link: https://www.cityofsydney.nsw.gov.au/__data/assets/pdf_file/0004/309118/City-of-Sydney-Annual-Report-Statutory-Returns-2017-18.pdf
 headlines:
+   - date: 2020-03-10
+     author: The Guardian Australia
+     title: NSW police chief denies advising PM on whether Angus Taylor should step down over doctored document
+     link: https://www.theguardian.com/australia-news/2020/mar/10/nsw-police-chief-denies-advising-pm-on-whether-angus-taylor-should-step-down-over-doctored-document
    - date: 2020-03-02
      author: The Guardian Australia
      title: "Doctored documents saga: Angus Taylor says the 'matter is closed'"
