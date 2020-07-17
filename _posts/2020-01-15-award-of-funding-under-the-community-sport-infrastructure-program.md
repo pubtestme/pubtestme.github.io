@@ -1,8 +1,10 @@
 ---
 layout: post
 tags: [ "Adverse Finding" ]
-modified_date: 2020-03-20
+modified_date: 2020-04-29
 authors:
+   - name: The Age
+     link: https://www.theage.com.au/
    - name: ANAO
      link: https://www.anao.gov.au/
    - name: ABC
@@ -69,6 +71,10 @@ reports:
      title: Award of Funding under the Community Sport Infrastructure Program
      link: https://www.anao.gov.au/work/performance-audit/award-funding-under-the-community-sport-infrastructure-program
 headlines:
+   - date: 2020-04-29
+     author: The Age
+     title: "Bridget McKenzie denies 'special treatment' in $100m sports affair"
+     link: https://www.theage.com.au/politics/federal/bridget-mckenzie-denies-special-treatment-in-100m-sports-affair-20200429-p54ocm.html
    - date: 2020-03-20
      author: The Guardian Australia
      title: Sport Australia warned Bridget McKenzie over sports grants decisions, emails reveal
