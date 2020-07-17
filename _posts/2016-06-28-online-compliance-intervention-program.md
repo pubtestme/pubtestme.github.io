@@ -2,7 +2,7 @@
 title: Income Data Matching for Welfare Recipients
 layout: post
 tags: [ "Perspectives Converging" ]
-modified_date: 2020-03-06
+modified_date: 2020-05-29
 summary: |
   > In July 2016 the Department of Human Services (DHS) - Centrelink - launched
   > a new online compliance intervention (OCI) system for raising and recovering
@@ -18,6 +18,8 @@ summary: |
 
   [The Commonwealth Ombudsman](https://www.ombudsman.gov.au/__data/assets/pdf_file/0022/43528/Report-Centrelinks-automated-debt-raising-and-recovery-system-April-2017.pdf)
 authors:
+   - name: 9News
+     link: https://www.9news.com.au/
    - name: Terry Carney, AO
      link: https://sydney.edu.au/law/about/our-people/academic-staff/terry-carney.html
    - name: The Commonwealth Ombudsman
@@ -42,6 +44,18 @@ reports:
      title: Centrelink's automated debt raising and recovery system - A Report About the Department of Human Services’ Online Compliance Intervention System for Debt Raising and Recovery
      link: https://www.ombudsman.gov.au/__data/assets/pdf_file/0022/43528/Report-Centrelinks-automated-debt-raising-and-recovery-system-April-2017.pdf
 headlines:
+   - date: 2020-05-29
+     author: The Guardian Australia
+     title: "Robodebt: government to refund 470,000 unlawful Centrelink debts worth $721m"
+     link: https://www.theguardian.com/australia-news/2020/may/29/robodebt-government-to-repay-470000-unlawful-centrelink-debts-worth-721m
+   - date: 2020-05-18
+     author: 9News
+     title: Centrelink to contact hundreds of thousands about robodebt class action
+     link: https://www.9news.com.au/national/centrelink-robodebt-class-action-government-to-contact-hundreds-of-thousands-about-lawsuit/cc8bedd5-b7a1-4957-8c34-da804dcd4fc4
+   - date: 2020-03-27
+     author: The Guardian Australia
+     title: "Robodebt: government admits it will be forced to refund $550m under botched scheme"
+     link: https://www.theguardian.com/australia-news/2020/mar/27/robodebt-government-admits-it-will-be-forced-to-refund-550m-under-botched-scheme
    - date: 2020-03-06
      author: The Guardian Australia
      title: Officials refuse to say how many flawed robodebts they have found
