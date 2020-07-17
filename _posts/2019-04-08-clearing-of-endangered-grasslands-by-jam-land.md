@@ -1,8 +1,10 @@
 ---
 layout: post
-tags: [ "Suspicious" ]
-modified_date: 2019-10-15
+tags: [ "Adverse Finding" ]
+modified_date: 2020-04-30
 authors:
+   - name: Department of Agriculture, Water and the Environment
+     link: https://www.environment.gov.au/
    - name: ABC
      link: https://abc.net.au/
    - name: The Guardian Australia
@@ -22,7 +24,15 @@ summary: |
 
   [The Guardian Australia](https://www.theguardian.com/australia-news/2019/apr/08/nsw-government-abandoned-land-clearing-investigation-into-company-linked-to-angus-taylor)
 
+reports:
+   - date: 2020-04-28
+     author: Department of Agriculture, Water and the Environment
+     title: Environment Protection and Biodiversity Conservation Act 1999, Section 480D, REMEDIATION DETERMINATION
 headlines:
+   - date: 2020-04-30
+     author: The Guardian Australia
+     title: Company part-owned by Angus Taylor illegally poisoned endangered grasslands, investigation finds
+     link: https://www.theguardian.com/environment/2020/apr/30/angus-taylor-jam-land-company-part-owned-illegally-poisoned-endangered-grasslands-investigation-finds
    - date: 2019-10-15
      author: The Guardian Australia
      title: Frydenberg sought 'urgent' details on Angus Taylor grasslands investigation
