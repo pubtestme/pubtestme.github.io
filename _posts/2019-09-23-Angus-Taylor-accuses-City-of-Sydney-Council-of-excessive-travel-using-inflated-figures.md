@@ -1,8 +1,10 @@
 ---
 layout: post
 tags: [ "Under Scrutiny" ]
-modified_date: 2020-03-18
+modified_date: 2020-04-27
 authors:
+   - name: NSW Parliament
+     link: https://www.parliament.nsw.gov.au/
    - name: MSN
      link: https://www.msn.com/
    - name: City of Sydney
@@ -18,6 +20,9 @@ authors:
    - name: Hansard
      link: https://www.aph.gov.au/Parliamentary_Business/Hansard
 reports:
+   - date: 2020-04-27
+     author: NSW Parliament
+     title: BUDGET ESTIMATES 2019-2020, Responses to Questions Taken on Notice, Minister for Police and Emergency Services
    - date: 2020-03-02
      author: Hansard
      title: Legal and Constitutional Affairs Legislation Committee 02/03/2020, Estimates, HOME AFFAIRS PORTFOLIO, Australian Federal Police
@@ -31,6 +36,10 @@ reports:
      title: City of Sydney Annual Report Statutory Returns 2017/18
      link: https://www.cityofsydney.nsw.gov.au/__data/assets/pdf_file/0004/309118/City-of-Sydney-Annual-Report-Statutory-Returns-2017-18.pdf
 headlines:
+   - date: 2020-04-27
+     author: The Guardian Australia
+     title: No evidence doctored documents Angus Taylor used to attack council existed on website, NSW police say
+     link: https://www.theguardian.com/australia-news/2020/apr/27/no-evidence-doctored-documents-angus-taylor-used-to-attack-council-existed-on-website-nsw-police-say
    - date: 2020-03-18
      author: MSN
      title: Ombudsman investigates AFP over failing to investigate Angus Taylor
