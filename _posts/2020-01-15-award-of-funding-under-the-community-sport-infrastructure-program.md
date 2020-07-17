@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [ "Adverse Finding" ]
-modified_date: 2020-03-06
+modified_date: 2020-03-08
 authors:
    - name: ANAO
      link: https://www.anao.gov.au/
@@ -69,6 +69,10 @@ reports:
      title: Award of Funding under the Community Sport Infrastructure Program
      link: https://www.anao.gov.au/work/performance-audit/award-funding-under-the-community-sport-infrastructure-program
 headlines:
+   - date: 2020-03-08
+     author: The Guardian Australia
+     title: "Sport Australia defies Senate on questions over sports rorts grants"
+     link: https://www.theguardian.com/australia-news/2020/mar/08/sport-australia-defies-senate-on-questions-over-sports-rorts-grants
    - date: 2020-03-06
      author: Yahoo News Australia
      title: "'Not talking about that': PM savaged for silent treatment at coronavirus presser"
